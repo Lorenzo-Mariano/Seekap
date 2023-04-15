@@ -1,0 +1,17 @@
+.nav-bar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+
+  height: 58px;
+
+  background: rgb(167, 169, 173);
+  background: linear-gradient(
+    90deg,
+    rgb(133, 135, 138) 2%,
+    rgb(100, 138, 97) 15%,
+    rgb(180, 180, 180) 52%,
+    rgb(158, 176, 211) 64%,
+    rgb(168, 167, 167) 100%
+  );
+}
