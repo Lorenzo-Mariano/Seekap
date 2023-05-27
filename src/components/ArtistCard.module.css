@@ -1,0 +1,39 @@
+.artist-card {
+  /* keep ratio at 3:4 */
+  /* nvm above lol, now height depends on content */
+
+  width: 250px;
+  height: auto;
+
+  background-color: #ffffff;
+  box-shadow: 0 0 8px #808080;
+  border-radius: 18px;
+}
+
+.img-preview {
+  /* this combo of height and width */
+  /* keep the aspect ratio and */
+  /* makes it constantly at card-width! */
+
+  width: 100%;
+  height: auto;
+
+  border-top-right-radius: inherit;
+  border-top-left-radius: inherit;
+}
+
+/* is just the name and everything below */
+.card-text-container {
+  padding: 18px;
+}
+
+/* is just the name */
+.name {
+  font-size: larger;
+  margin-bottom: 8px;
+}
+
+/* all things below the name */
+.card-details {
+  font-size: small;
+}
