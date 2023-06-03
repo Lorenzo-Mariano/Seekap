@@ -1,0 +1,40 @@
+.sign-up-form {
+	display: flex;
+	flex-direction: column;
+
+	width: 500px;
+	align-items: flex-start;
+	padding: 24px;
+	margin: 123px auto;
+
+	background-color: #fff;
+	box-shadow: 0 0 8px #808080;
+	border-radius: 20px;
+}
+
+.form-name {
+	font-size: 22px;
+	margin-bottom: 16px;
+}
+
+.sign-up-username,
+.sign-up-password {
+	border: solid 1px #747474;
+	border-radius: 6px;
+	margin-bottom: 12px;
+}
+
+.submit-button {
+	color: #9f0bda;
+	align-self: flex-end;
+	padding: 4px 12px;
+}
+
+[data-theme="dark"] .sign-up-form {
+	background-color: #1e1f20;
+	box-shadow: 0px 0px 8px #000000;
+}
+
+[data-theme="dark"] .submit-button {
+	color: #cc5cf8;
+}
