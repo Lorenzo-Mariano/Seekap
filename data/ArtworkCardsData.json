@@ -1,93 +1,130 @@
 [
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  },
-  {
-    "image": "/artworks/carlos francisco harana full.jpg",
-    "title": "Harana",
-    "author": "Carlos V. Francisco",
-    "yearCreated": 1957,
-    "description": "The mural painting that shows the traditional Filipino courtship-serenade"
-  }
+	{
+		"image": "/artworks/carlos francisco harana full.jpg",
+		"title": "Harana",
+		"author": "Carlos V. Francisco",
+		"yearCreated": 1957,
+		"description": "The mural painting that shows the traditional Filipino courtship-serenade.",
+		"fullDesc": "The mural painting that shows the traditional Filipino courtship - serenade. The scene is set at night shows four people, three men and a woman. The center of the painting is the man performing the serenade, a man playing the guitar to woo the woman while the other two men sleeps. The painting uses the social realism style."
+	},
+	{
+		"image": "/artworks/fernando amorsolo planting rice full.jpg",
+		"title": "Planting Rice",
+		"author": "Fernando C. Amorsolo",
+		"yearCreated": 1921,
+		"description": "The oil painting that shows three groups of farmers planting rice.",
+		"fullDesc": "The oil painting that shows three group of farmers planting rice. The scene is set in a rice field with the first group consisting of three women in the foreground. The second group consisting of nine people, six women and three men, is in the middle ground. The third group consisting of nine farmers and carabao in the background."
+	},
+	{
+		"image": "/artworks/pablo antonio Far Eastern University.jpg",
+		"title": "Nicanor B. Reyes Sr. Hall",
+		"author": "Pablo S. Antonio",
+		"yearCreated": 1939,
+		"description": "The first campus of Far Eastern University designed by Pablo S. Antonio.",
+		"fullDesc": "The first campus of Far Eastern University designed by Pablo S. Antonio. The building's design is heavily inspired by the Art Deco style. The massive façade is known for its U shape, on both end's of the building protrudes a vertical volumes that when viewed from above gives the silhouette of the letter U. The whole campus has been given the Asia-Pacific Cultural Heritage Award from UNESCO."
+	},
+	{
+		"image": "/artworks/vicente manansala mother and child full.jpg",
+		"title": "Mother and Child",
+		"author": "Vicente S. Manansala",
+		"yearCreated": 1967,
+		"description": "The painting shows the mother sitting with her back facing the viewer.",
+		"fullDesc": "The painting shows the mother sitting with her back faced. The baby is in the mother's arms with only the feet visible. And, at the back on the top right is a lamp. The simple colors highlights the figure of the mother, her gazing down at her child and with her shoulder exposed, it gives the impression of her feeding her child. The painting gives a soft and candid feel."
+	},
+	{
+		"image": "/artworks/napoleon abueva nine muses of the arts.jpg",
+		"title": "Nine Muses of the arts",
+		"author": "Napoleon V. Abueva",
+		"yearCreated": 1994,
+		"description": "The sculpture of nine women representing the nine art forms.",
+		"fullDesc": "The sculpture of nine women represents the nine art forms. The following art forms: architecture, dance, film, literature, music, painting, photography, sculpture, and theater. The sculpture also represents the nine Greek Muses or The Muses. The women are nude with individual distinct pose. The sculpture is placed on top of a ring-form pedestal."
+	},
+	{
+		"image": "/artworks/guillermo tolentino bonifacio monument.jpg",
+		"title": "Bonifacio Monument",
+		"author": "Guillermo E. Tolentino",
+		"yearCreated": 1933,
+		"description": "The sculpture is a memorial monument to commemorate the revolutionary hero, Andres Bonifacio.",
+		"fullDesc": "The sculpture is a memorial monument to commemorate the revolutionary hero, Andres Bonifacio. It is commonly known as Monumento. The monument is 13.7 meters in height and features the “Cry of Balintawak” or “Cry of Pugad Lawin”. The monument is an obelisk, and at the top seats a winged figure with its hand raised in triumph. At the base are bronze figures that represent the people during the Spanish rule. In front, at the center is Andres Bonifacio carrying a bolo and revolver, and behind him is Emilio Jacinto (left) and a Katipunero carrying flag (right). In the back, features the figures of the three executed martyred priests, Father Burgos sits on the garrote, while Father Gomez and Father Zamora lie dead."
+	},
+	{
+		"image": "/artworks/victorio edades the sketch full.jpg",
+		"title": "The Model and the Artist",
+		"author": "Victorio C. Edades",
+		"yearCreated": 1928,
+		"description": "The painting shows the scene of a painter sketching his model, and an onlooker watching the process.",
+		"fullDesc": "The painting shows the scene of a painter sketching his model, and an onlooker watching the process. He enter this oil painting in an American art competition and won second prize. This painting was also shown in his 1928 exhibit at the Philippine Columbian Club to help the then stagnant art scene of the Philippines."
+	},
+	{
+		"image": "/artworks/francis manosa our lady of peace full and cropped already.jpg",
+		"title": "Our Lady of Peace Shrine",
+		"author": "Francis T. Mañosa",
+		"yearCreated": 1989,
+		"description": "The shrine was designed for the freedom of movement and celebratory spirit of EDSA Revolution.",
+		"fullDesc": "The shrine was designed for the freedom of movement and celebratory spirit of EDSA Revolution. The building's design was a modern take on the Filipino architecture. The building was distinguished for its neovernacular style and native architecural forms and indigenous material. The shrine consists of promenade,the People's Plaza with the statue of the Virgin Mary at its crown, and an underground church."
+	},
+	{
+		"image": "/artworks/juan nakpil up diliman administration and library.jpg",
+		"title": "UP Quezon Hall",
+		"author": "Juan F. Nakpil",
+		"yearCreated": 1950,
+		"description": "The building is the seat of administration and the face of the University of the Philippines.",
+		"fullDesc": "The building is the seat of administration and the face of the University of the Philippines. The hall has the notably huge pillars in reminiscent of the neoclassical style, and an open portico. The hall houses many of the administrative offices as well as the Oblation. A marker from the National Historical Institute is also located in its front lawn."
+	},
+	{
+		"image": "/artworks/guillermo tolentino up oblation full.png",
+		"title": "UP Oblation",
+		"author": "Guillermo E. Tolentino",
+		"yearCreated": 1935,
+		"description": "The sculpture is the iconic symbol of the University of the Philippines.",
+		"fullDesc": "The sculpture is the iconic symbol of the University of the Philippines. The statue shows an almost nude young man with his feet together, arms spread to the sides with his palms up, head tilted back with eyes closed,and his genitalia covered by a leaf. Kataka - taka leaves cover one of his foot and shin. The pedestal it stands on is a rough hewn rocks. The statue is 3.5 meters in height. In front of the statue is a plaque that contains Spanish texts from Jose Rizal's El Filibusterismo. The initial sculpture was made from concrete, but the one displayed in the Oblation Plaza is a latter sculpture made from bronze."
+	},
+	{
+		"image": "/artworks/napoleon abueva blood compact cropped and full.jpg",
+		"title": "Blood Compact",
+		"author": "Napoleon V. Abueva",
+		"yearCreated": 1972,
+		"description": "This portrays the Sikatuna-Legaspi blood compact and was considered as the First Treaty of Friendship.",
+		"fullDesc": "It is placed on an open and raised dai protraying 5 life-sized images of men gathered around a table Legazpi and Sikatuna supposedly making a toast. This portrays the Sikatuna-Legaspi blood compact and was considered as the First Treaty of Friendship between two different races, religions, cultures and civilizations. It was a treaty of friendship based on respect and equality. this event is commonly known as 'Sandugo'."
+	},
+	{
+		"image": "/artworks/fernando amorsolo defense of a filipina woman's honor cropped and full.jpg",
+		"title": "Defense of a Filipina Woman's Honor",
+		"author": "Fernando C. Amorsolo",
+		"yearCreated": 1945,
+		"description": "One of the most famous paintings depicting the war.",
+		"fullDesc": "One of his famous war era paintings is the 'Defense of a Filipina Woman's Honor'. where it showed a Filipino man holding a bolo about to defend his wife and daughter from being raped by an unseen Japanese soldier. His wartime paintings are considered amonghis finest work and were exhibited at the Malacañang Palace."
+	},
+	{
+		"image": "/artworks/napoleon abueva three women sewing the first philippine flag cropped and full.jpg",
+		"title": "Three Women Sewing the First Philippine Flag",
+		"author": "Napoleon V. Abueva",
+		"yearCreated": 1996,
+		"description": "The sculpture to commemorate the sewing of the Philippine flag.",
+		"fullDesc": "It is a sculpture made wof concrete and polychrome. the practices of applying color to sculptures. The work commemorates the sweing of the Philippine flag by Doña Marcela Agoncillo, Lorenza Agoncillo, and Josefina Herbosa Natividad while in exile with the Revolutionary government in Hong Kong from 1897- 1898.it showsthe three women working together in slowly making the first Philippine flag together, making a flag that symbolized our country in the best way."
+	},
+	{
+		"image": "/artworks/fernando amorsolo making of the philippine flag full.jpg",
+		"title": "Making of the Philippine Flag",
+		"author": "Fernando C. Amorsolo",
+		"yearCreated": 1955,
+		"description": "The painting shows three women working together to sew the first Philippine flag.",
+		"fullDesc": "The painting shows three women, Doña Marcela Agoncillo, Lorenza Agoncillo, and Josefina Herbosa Natividad, working together to sew the first Philippine flag while in exile back in 1897-1898. Fernando Amorsolo used natural light in his paintings and developed the backlighting technique Chiaroscuro, Fernando Amorsolo made this painting to show the citizens of the Philippines of how the Philippine flag was made and to remind them the traditions and customs that we did not realize it becomes faded."
+	},
+	{
+		"image": "/artworks/vicente manansala planting of the first cross full.jpg",
+		"title": "Planting of the First Cross",
+		"author": "Vicente S. Manansala",
+		"yearCreated": 1965,
+		"description": "The painting shows the planting of the cross in Cebu with the Spaniards.",
+		"fullDesc": "Ferdidnand Magellan was the First European to come to the Philippines. This painting depicts him planting a cross of after establishing christianity with the Rajah Humabon, a native chief agreed with the religion. the original cross is now encased inside another wooden cross for protection and can still be seen today in the Kiosk located in Cebu, 500 years later."
+	},
+	{
+		"image": "/artworks/victorio edades the builders full.jpg",
+		"title": "The Builders",
+		"author": "Victorio C. Edades",
+		"yearCreated": 1928,
+		"description": "The oil painting was one of Victorio C. Edades' major works.",
+		"fullDesc": "The Builders was one if Edades's major works exhibited at his 1928 one-man show. Here the subject was far removed from Amorsolo's images of the countryside. Shown is a group of builders working to construct an edifice. The setting is not specific; neither do the builders have individualizing features. this painting shows Victorio Edades's enhanced knowledge and skill in modern art, emphasizing linear and structural composition above other pictorial elements, conveying the essence of men engaged in labor through the contortions of their body."
+	}
 ]
