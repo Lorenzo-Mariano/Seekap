@@ -1,74 +1,83 @@
 [
-  {
-    "image": "/artists/carlos francisco.jpg",
-    "name": "Carlos V. Francisco",
-    "artField": "National Artist for Painting",
-    "dateAwarded": 1973,
-    "lifetime": "November 4, 1912 - March 31, 1969",
-    "description": "Known for reviving the forgotten art of mural painting"
-  },
-  {
-    "image": "/artists/carlos francisco.jpg",
-    "name": "Carlos V. Francisco",
-    "artField": "National Artist for Painting",
-    "dateAwarded": 1973,
-    "lifetime": "November 4, 1912 - March 31, 1969",
-    "description": "Known for reviving the forgotten art of mural painting"
-  },
-  {
-    "image": "/artists/carlos francisco.jpg",
-    "name": "Carlos V. Francisco",
-    "artField": "National Artist for Painting",
-    "dateAwarded": 1973,
-    "lifetime": "November 4, 1912 - March 31, 1969",
-    "description": "Known for reviving the forgotten art of mural painting"
-  },
-  {
-    "image": "/artists/carlos francisco.jpg",
-    "name": "Carlos V. Francisco",
-    "artField": "National Artist for Painting",
-    "dateAwarded": 1973,
-    "lifetime": "November 4, 1912 - March 31, 1969",
-    "description": "Known for reviving the forgotten art of mural painting"
-  },
-  {
-    "image": "/artists/carlos francisco.jpg",
-    "name": "Carlos V. Francisco",
-    "artField": "National Artist for Painting",
-    "dateAwarded": 1973,
-    "lifetime": "November 4, 1912 - March 31, 1969",
-    "description": "Known for reviving the forgotten art of mural painting"
-  },
-  {
-    "image": "/artists/carlos francisco.jpg",
-    "name": "Carlos V. Francisco",
-    "artField": "National Artist for Painting",
-    "dateAwarded": 1973,
-    "lifetime": "November 4, 1912 - March 31, 1969",
-    "description": "Known for reviving the forgotten art of mural painting"
-  },
-  {
-    "image": "/artists/carlos francisco.jpg",
-    "name": "Carlos V. Francisco",
-    "artField": "National Artist for Painting",
-    "dateAwarded": 1973,
-    "lifetime": "November 4, 1912 - March 31, 1969",
-    "description": "Known for reviving the forgotten art of mural painting"
-  },
-  {
-    "image": "/artists/carlos francisco.jpg",
-    "name": "Carlos V. Francisco",
-    "artField": "National Artist for Painting",
-    "dateAwarded": 1973,
-    "lifetime": "November 4, 1912 - March 31, 1969",
-    "description": "Known for reviving the forgotten art of mural painting"
-  },
-  {
-    "image": "/artists/carlos francisco.jpg",
-    "name": "Carlos V. Francisco",
-    "artField": "National Artist for Painting",
-    "dateAwarded": 1973,
-    "lifetime": "November 4, 1912 - March 31, 1969",
-    "description": "Known for reviving the forgotten art of mural painting"
-  }
+	{
+		"image": "/artists/fernando amorsolo.jpg",
+		"name": "Fernando C. Amorsolo",
+		"artField": "Visual Arts",
+		"dateAwarded": 1972,
+		"lifetime": "May 30, 1892 - April 24, 1972",
+		"description": "The Philippines' first National Artist",
+		"fullDesc": "Fernando Amorsolo y Cueto was a portraitist and painter of the rural Philippine landscapes. Nicknamed the 'Grand Old Man of Philippine Art', he was first-ever to be recognized as a National Artist of the Philippines. He was recognized as such for his 'pioneering use of impressionistic technique' as well as his skill in the use of lighting and backlighting in his paintings, 'significant not only in the development of Philippine art but also in the Formation of Filipino notions of self identity.'"
+	},
+	{
+		"image": "/artists/guillermo tolentino.png",
+		"name": "Guillermo E. Tolentino",
+		"artField": "Sculpture",
+		"dateAwarded": 1973,
+		"lifetime": "July 24, 1890 - July 12, 1976",
+		"description": "Well-known UP School of Fine Arts professor",
+		"fullDesc": "Guillermo estrella Tolentino was a Filipino sculptor and professor of the University of the Philppines. He was designated as a National Artist of the Philippines for Sculpture in 1973, three years before his death. He sculpted the Andrés Bonifacio Monument in 1930 and completed in 1933 as a partof a contest in designing the sculpture. instead of basing the statues to printed materials, he interviewed people who participated in the Philippine Revolution. In 1935, Rafael Palma, president of the Univertsity of the Philippines, comissioned Tolentino to sculpt the Oblation, a statue based on the second stanza of Jose Rizal's Mi ultimo adios."
+	},
+	{
+		"image": "/artists/carlos francisco.jpg",
+		"name": "Carlos V. Francisco",
+		"artField": "Painting",
+		"dateAwarded": 1973,
+		"lifetime": "November 4, 1912 - March 31, 1969",
+		"description": "Known for reviving the forgotten art of mural painting",
+		"fullDesc": "Known for reviving the forgotten art of mural painting. Carlos 'Botong' V. Francisco was the most distinguished mural artist for nearly three decades. His unerring eye for composition, lush tropical sense of color and abiding faith in the folk values became the hallmark of his art. His first major mural was done for the International Fair in Manila. The theme is Five Hunded Years of Philippine history. The mural received full coverage in Newsweek, but locally it wasn't as appreciated since it was quickly disposed after the fair. His major masterpiece, the mural for the Bulwagang Katipunan of the Manila City Hall. Harana part of the Bangko Sentral ng Pilipinas Collection."
+	},
+	{
+		"image": "/artists/juan nakpil.jpg",
+		"name": "Juan F. Nakpil",
+		"artField": "Architecture",
+		"dateAwarded": 1973,
+		"lifetime": "May 26, 1899 - May 7, 1986",
+		"description": "The main supporter of Philippine Architecture that reflects the Philippine tradition and culture",
+		"fullDesc": "Juan Felipe de Jesús Nakpil, KGCR known as Juan Nakpil, was a Filipino architect, teacher and a community leader. in 1973 he was named one of the National Artists for architecture. He was regarded as the Dean of Filipino Architects. Among Nakpil's works are San Carlos Seminary, Geronimo de los Reyes building, Iglesia ni Cristo Riverside Locale(Now F.Manalo, San Juan) and Iglesia Ni Cristo - Locale of Caloocan, Magsaysay building, Rizal Theater, Capitol Theater, Capitan Pepe Building, Manila Jockey Club, Rufino Building, Philippine Village Hotel, University of the Philippines Administration and University Library, and the Rizal Shrine in Calamba, Laguna. He also improved the Quiapo Church in 1930 after it was burned down in 1929."
+	},
+	{
+		"image": "/artists/napoleon abueva.jpg",
+		"name": "Napoleon V. Abueva",
+		"artField": "Sculpture",
+		"dateAwarded": 1976,
+		"lifetime": "January 26, 1930 - February 16, 2018",
+		"description": "The Father of Modern Philippine Sculpture",
+		"fullDesc": "The Father of Modern Philippine Sculpture. He is also known as Billy Abueva. His sculpture uses a wide variety of material: metal, wood, adobe, marble, alabaster, and coral. He also often combines different materials. He created many public sculptures for University of the Philippines such as the Nine Muses of the Arts and Three Women Sewing the First Philippine Flag as well as the UP Gateway and Honor (Magdangal). His Blood Compact (Sandugo) is a landmark of the first international treaty of friendship between Spaniards and Filipinos."
+	},
+	{
+		"image": "/artists/victorio edades.jpg",
+		"name": "Victorio C. Edades",
+		"artField": "Painting",
+		"dateAwarded": 1976,
+		"lifetime": "December 23, 1895 - March 7, 1985",
+		"description": "Father of Modern Philippine Painting",
+		"fullDesc": "Victorio Candido Edades was a Filipino painter. He led the revolutionary Thirteen Moderns, who engaged their classical compatriots in heated debate over the nature and function of art. He was named a National Artist in 1976. The history names Victorio Edades as 'The Father of Modern Philippine art'. Schooled in the US upon his return he introduced an entirely new way of thinking about art. He argued that art can be more than the representation of reality, it can be representation of reality through the mind and emotions of the artist. He painted 'The Sketch' in 1928 as well as other notable works like 'The Builders', 'Interaction', 'Fontainebleau, August 1937', 'The Model and the Artist' and so on."
+	},
+	{
+		"image": "/artists/pablo s antonio.jpg",
+		"name": "Pablo S. Antonio",
+		"artField": "Architecture",
+		"dateAwarded": 1976,
+		"lifetime": "January 25, 1902 - June 14, 1975",
+		"description": "The pioneer for the modern Philippine architecture that values purpose and simplicity",
+		"fullDesc": "Pablo Sebero Antonio, Sr. was a Filipino architect. A pioneer of modern Philippine architecture, he was recognized in some quartersas the foremost Filipino modernist architect of his time. The rank and title of National Artist of the Philippines was conferred on him by President Ferdinand Marcos in 1976. Antonio first came into prominence in 1933 with the construction of Ideal Theater along Avenida Rizal in Manila. His work caught the eye of Far Eastern University Founder, Dr. Nicanor B.Reyes, Sr., who was looking to build a school campus that was modern in style. Between 1938 and 1950, he designed several buildings on the university campus in the Art Deco style. he designed the White Cross Orphanage(1938) along Santolan road in San Juan City, and the Manila Polo Club(1950) in Makati. He likewise designed the Roces Publications Building(now Guzman Institute of Electronics) in Soler street in Manila,the Captain Luis Gonzaga Building(1953), and the Boulevard-Alhambra(now called Bel-Air) Apartments Building in Roxas Boulevard and where Manila Bay Hotel is located on the 4th floor. The art deco apartment is near T.M. Kalaw Avenue and beside Miramar Hotel. It was built in 1937"
+	},
+	{
+		"image": "/artists/francisco manosa.jpg",
+		"name": "Francisco T. Mañosa",
+		"artField": "Architecture",
+		"dateAwarded": 2018,
+		"lifetime": "February 12 1931 - February 20 2019",
+		"description": "The pioneer of art of Philippine neovernacular architecture",
+		"fullDesc": "Francisco 'Bobby' Tronqued Mañosa was a Filipino architect considered to be one of the most influential Filipino architects of the 20th century for having pioneered the art of Philippine neovernacular architecture. His contributions to the development of Philippine architecture led top his recognition as a National artist of the Philippines for Architecture in 2018. Mañosa was known for his advocacy of what has been called 'Philippine neovernacular architecture' His design aesthetic incorporated Philippine design motifs and local materals such as coconut and local hardwoods. After the Marcoses were sent into exile in 1986, Jaime Cardinal Sin of the Archidiocese of Manila began convieving of a shrine that would celebrate the People Power Revolution which had desposed them. Cardinal Sin's appeal for people to rally in the srtreets had played a pivotal role in assuring that the uprising succeeded without the need for bloodshed, and Philippines' large Catholic majority characterized its success a 'miracle'. So the Cardinal approached Mañosa about designing a shrine commemorating the event."
+	},
+	{
+		"image": "/artists/vicente manansala.jpg",
+		"name": "Vicente S. Manansala",
+		"artField": "Painting",
+		"dateAwarded": 1981,
+		"lifetime": "January 22, 1910 - August 22, 1981",
+		"description": "One of the first Abstractionists on the Philippines",
+		"fullDesc": "Vicente Silva Manansala was a Filipino cubist painter and illustrator. One of the first Abstractionists on the Philippine art scene Vicente Manansala is also cretited with bridging the gap between city and the suburbs, between the rural and cosmopolitan ways of life, His paintings depict a nation in transition, an allusion to the new culture brought by the Americans. Manansala together with Fabian de la Rosa are among the best-selling Philippine artists in the West. Manansala's paintings are the best and were celebrated as the best of the barrio and the city together. His 'Madonna of the Slums' is a portrayal ofa mother, and child from the countryside who became urban chanty residents once in the city. In his 'Jeepneys', Manansala combined the elements of provicial folk culture with the congestion issues in the city. Manansala developed transparent cubism, wherein the 'delicate tones, shapes and patterns of figure and environment are masterfully superimposed'. A fine example of Manansala using this 'transparent and translucent' technique in his composition, 'Kalabaw'."
+	}
 ]

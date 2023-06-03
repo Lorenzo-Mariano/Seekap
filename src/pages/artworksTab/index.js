@@ -1,6 +1,8 @@
 import ArtworkCard from '@/components/ArtworkCard';
 import ArtworkCardsData from '../../../data/ArtworkCardsData.json';
 import styles from './index.module.css';
+import { useState } from 'react';
+import ArtworkModal from '@/components/ArtworkModal';
 
 export async function getServerSideProps(context) {
     console.log(context);
@@ -8,10 +10,35 @@ export async function getServerSideProps(context) {
 }
 
 export default function ArtworksTab(props) {
-    console.log(props)
+
+    const [modal, setModal] = useState(false);
+    const [selectedItem, setSelectedItem] = useState();
+
+    function ModalHandler(artworkSelected) {
+        if (modal) {
+            setModal(false);
+        } else {
+            setModal(true);
+            setSelectedItem(artworkSelected);
+        }
+    }
+
     return (
-        <div className={styles['cards-row']}>
-            {props.artworksData.map(artwork => <ArtworkCard {...artwork}></ArtworkCard>)}
-        </div>
+        <>
+            {
+                modal && <ArtworkModal {...selectedItem} onClose={ModalHandler}></ArtworkModal>
+            }
+            <div className={styles['cards-row']}>
+                {
+                    props.artworksData.map(artwork =>
+                        <ArtworkCard
+                            openModalHandler={() => ModalHandler(artwork)}
+                            key={artwork.title}
+                            {...artwork}>
+                        </ArtworkCard>
+                    )
+                }
+            </div>
+        </>
     );
 }
