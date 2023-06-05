@@ -6,8 +6,8 @@ import ArtworkModal from '@/components/ArtworkModal';
 
 export async function getServerSideProps(context) {
     console.log(context);
-    return { props: { artworksData: [...ArtworkCardsData] } }
-}
+    return { props: { artworksData: [...ArtworkCardsData] } };
+};
 
 export default function ArtworksTab(props) {
 
@@ -17,11 +17,13 @@ export default function ArtworksTab(props) {
     function ModalHandler(artworkSelected) {
         if (modal) {
             setModal(false);
+            document.body.style.overflow = 'unset';
         } else {
             setModal(true);
             setSelectedItem(artworkSelected);
-        }
-    }
+            document.body.style.overflow = 'hidden';
+        };
+    };
 
     return (
         <>
@@ -34,11 +36,12 @@ export default function ArtworksTab(props) {
                         <ArtworkCard
                             openModalHandler={() => ModalHandler(artwork)}
                             key={artwork.title}
-                            {...artwork}>
+                            {...artwork}
+                        >
                         </ArtworkCard>
                     )
                 }
             </div>
         </>
     );
-}
+};

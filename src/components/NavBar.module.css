@@ -7,19 +7,17 @@
 }
 
 /* select descendants */
-.nav-bar > * {
+.nav-bar>* {
 	margin-left: 22px;
 }
 
 .nav-bar__border-bottom {
 	height: 2px;
 	background: rgb(114, 114, 114);
-	background: linear-gradient(
-		90deg,
-		rgb(180, 180, 180) 0%,
-		rgb(71, 71, 71) 32%,
-		rgb(196, 196, 196) 100%
-	);
+	background: linear-gradient(90deg,
+			rgb(180, 180, 180) 0%,
+			rgb(71, 71, 71) 32%,
+			rgb(196, 196, 196) 100%);
 }
 
 .seekap-button {
