@@ -1,0 +1,64 @@
+.modal-shadow {
+	background-color: rgba(0, 0, 0, 0.45);
+
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	z-index: 99;
+
+	display: flex;
+	justify-content: center;
+}
+
+.modal {
+	max-height: calc(100vh - 80px);
+	overflow-y: auto;
+	width: 65%;
+
+	display: flex;
+	flex-direction: column;
+	align-self: center;
+
+	background-color: #fff;
+	padding: 38px;
+}
+
+.artist-image {
+	width: 100%;
+	height: auto;
+
+	margin-bottom: 18px;
+}
+
+.title {
+	font-size: 18px;
+	margin-bottom: 2px;
+}
+
+.author {
+	font-size: 16px;
+	margin-bottom: 2px;
+
+}
+
+.date {
+	font-size: 16px;
+	margin-bottom: 18px;
+
+}
+
+.full-description {
+	font-size: 14px;
+	margin-bottom: 22px;
+}
+
+.close-button {
+	align-self: flex-start;
+	color: #9f0bda;
+}
+
+[data-theme='dark'] .modal {
+	background-color: #1e1f20;
+}

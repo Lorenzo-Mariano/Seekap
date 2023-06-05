@@ -1,22 +1,27 @@
 import styles from './ArtworkModal.module.css';
 import Image from 'next/image';
 
-export default function ArtworkModal({ image, title, author, date, fullDesc, onClose }) {
+
+// apparently portals are good for modals
+// so maybe use that next time around
+export default function ArtworkModal({ image, title, author, yearCreated, fullDesc, onClose }) {
 	return (
-		<div className='modal-shadow'>
-			<div className='modal'>
+		<div className={styles['modal-shadow']}>
+			<div className={styles['modal']}>
 				<Image
-					alt='full image'
+					className={styles['artist-image']}
+					alt='artist full image'
 					src={image}
-					width={1315}
-					height={956}
+					width={0}
+					height={0}
+					sizes='100vw'
 				>
 				</Image>
-				<div className='title'>{title}</div>
-				<div className='author'>{author}</div>
-				<div className='date'>{date}fasdfasdafsd</div>
-				<div className='full-description'>{fullDesc}fasdfasdfsda</div>
-				<button onClick={onClose} className='close-button'>Close</button>
+				<div className={styles['title']}>{title}</div>
+				<div className={styles['author']}>{author}</div>
+				<div className={styles['date']}>{yearCreated}</div>
+				<div className={styles['full-description']}>{fullDesc}</div>
+				<button onClick={onClose} className={styles['close-button']}>Close</button>
 			</div>
 		</div>
 	)
