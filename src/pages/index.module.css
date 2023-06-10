@@ -50,6 +50,10 @@
 	width: 400px;
 }
 
+.links a:hover {
+	background-color: #cacaca;
+}
+
 .artworks-button {
 	margin-bottom: 6px;
 }
@@ -72,4 +76,8 @@
 
 [data-theme="dark"] .links a {
 	background-color: #27292c;
+}
+
+[data-theme="dark"] .links a:hover {
+	background-color: #777777;
 }
