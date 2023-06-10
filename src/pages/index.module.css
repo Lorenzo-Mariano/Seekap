@@ -1,0 +1,75 @@
+.spacer-top {
+	height: 10vh;
+}
+
+.mission-statement {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	height: 160px;
+	width: 780px;
+
+	background-color: #fff;
+
+	border: solid 1px black;
+	border-radius: 24px;
+	padding: 20px;
+
+	font-size: 24px;
+	margin: 0 auto;
+}
+
+.spacer-bottom {
+	height: 150px;
+}
+
+
+.links {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+
+	align-items: center;
+	margin: 0 auto;
+
+	width: fit-content;
+	border-radius: 14px;
+}
+
+.links a {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	background-color: #fff;
+	border: solid 1px black;
+	border-radius: inherit;
+
+	height: 60px;
+	width: 400px;
+}
+
+.artworks-button {
+	margin-bottom: 6px;
+}
+
+.artists-button {}
+
+.footer {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.next-js {
+	height: auto;
+	width: 86px;
+}
+
+[data-theme="dark"] .mission-statement {
+	background-color: #27292c;
+}
+
+[data-theme="dark"] .links a {
+	background-color: #27292c;
+}
